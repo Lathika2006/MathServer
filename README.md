@@ -93,10 +93,10 @@ h1 {
 </div>
 </body>
 </html>
-```
+
+
 views.py
 
-```
 
 from django.shortcuts import render
 
@@ -124,10 +124,10 @@ def surfacearea(request):
     
     return render(request, 'mathapp/math.html', context)
 
-```
+
 urls.py
 
-```
+
 
 from django.contrib import admin
 from django.urls import path

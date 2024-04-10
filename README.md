@@ -72,8 +72,8 @@ h1 {
 <body>
 <div class="edge">
     <div class="box">
-        <h1>Area of Surface</h1>
-        <h3>LATHIKA L J (21223220050)</h3>
+        <h1>Surface Area of a Right Cylinder</h1>
+        <h3>LATHIKA L J (212223220050)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -142,11 +142,11 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](<Screenshot 2024-04-02 105100.png>)
+![alt text](image-1.png)
 
 ## HOMEPAGE:
 
-![alt text](image.png)
+![alt text](<Screenshot 2024-04-03 224812.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
